@@ -60,7 +60,7 @@ I am currently looking for internship and job opportunities, so if you are inter
 
 **&thinsp; 𝑡𝑜𝑜𝑙𝑠 &thinsp;**
 
-<img src="https://skillicons.dev/icons?i=github,linux,vscode,visual studio,figma,qiskit&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio,figma,qiskit&theme=dark" />
 
 </div>
 
