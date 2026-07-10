@@ -1,6 +1,6 @@
-# ⤷ ゛Hi it's Syeda Ayesha Gillani ⟢ˎˊ˗
+# ꧁⎝ Hi it's Syeda Ayesha Gillani ⎠꧂
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/header.png" width="100%" style="border-radius:10px;"/>
 </div>
 
 <div align="center">
