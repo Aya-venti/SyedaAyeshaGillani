@@ -1,4 +1,4 @@
-# Syeda_Ayesha_Gillani
+# ⤷ ゛Hi it's Syeda Ayesha Gillani ˎˊ˗
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=&animation=fadeIn" width="100%"/>
 </div>
@@ -72,29 +72,7 @@
 
 **&thinsp; 𝑡𝑜𝑜𝑙𝑠 &thinsp;**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-### ˚ · . 𝒔𝒕𝒂𝒕𝒔 . · ˚
-
-<br/>
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9b8f0&icon_color=9b7fd4&text_color=a8b2d8&ring_color=9b7fd4"/>
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9b8f0&text_color=a8b2d8&langs_count=5"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=9b7fd4&fire=c9b8f0&currStreakLabel=c9b8f0&sideLabels=a8b2d8&sideNums=c9b8f0&currStreakNum=ffffff&dates=6e7691"/>
+<img src="https://skillicons.dev/icons?i=github,linux,vscode,figma,qiskit&theme=dark" />
 
 </div>
 
@@ -110,10 +88,10 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/syeda-ayesha-gillani-8658b1401">
 <img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9b8f0"/></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:graphicpumpkin@gmail.com">
 <img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=c9b8f0"/></a>
 &nbsp;
 <a href="https://YOUR_PORTFOLIO">
@@ -126,7 +104,8 @@
 <div align="center">
 
 ```
-｡𖦹°‧ open to internships · research collabs · interesting problems ‧°𖦹｡
+
+⋆｡‧˚ʚ open to internships · research collabs · interesting problems ɞ˚‧｡⋆
 ```
 
 </div>
