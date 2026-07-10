@@ -1,4 +1,4 @@
-# ⤷ ゛Hi it's Syeda Ayesha Gillani ˎˊ˗
+# ⤷ ゛Hi it's Syeda Ayesha Gillani ⟢ˎˊ˗
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=&animation=fadeIn" width="100%"/>
 </div>
@@ -8,7 +8,7 @@
 <br/>
 
 ```
-⋆｡‧˚ʚ Syeda Ayesha Gillani: final year cs student · researcher · builder ɞ˚‧｡⋆
+⋆｡‧˚ʚ Final year cs student · researcher · builder ɞ˚‧｡⋆
 ```
 
 <br/>
@@ -19,29 +19,17 @@
 
 <br/>
 
-### ˚ · . 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 . · ˚
+### ˚ · . 𝑎𝑏𝑜𝑢𝑡 𝑚𝑒 . · ˚
 
 <br/>
 
-> **𝑀𝐿 𝐸𝑚𝑜𝑡𝑖𝑜𝑛 𝐷𝑒𝑡𝑒𝑐𝑡𝑜𝑟** &nbsp;·&nbsp; `2026`
-> CNN-based facial emotion recognition integrated into an AI chatbot via Hugging Face.
-> Built with adversarial input guards and ethical handling of sensitive mental health data.
+⁀જ➣ I am a 𝑓𝑖𝑛𝑎𝑙 𝑦𝑒𝑎𝑟 student at 𝐼𝑇𝑈.  Doing 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑆𝑐𝑖𝑒𝑛𝑐𝑒 has taught me a lot of things.  It is a vast field, after all.  One can learn many different things and integrate them to their advantage. 
 
-> **𝑆𝑖𝑔𝑛 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒 𝐷𝑒𝑡𝑒𝑐𝑡𝑖𝑜𝑛 𝑀𝑜𝑑𝑒𝑙** &nbsp;·&nbsp; `2025`
-> CNN classifying hand gestures from image input. Benchmarked against SVM, Random Forest, and MobileNet across accuracy, precision, recall, and F1.
+I personally like research work.  I have written a research paper on 𝑀𝐸𝑉 𝐺𝑜𝑣𝑒𝑟𝑛𝑎𝑛𝑐𝑒 𝐴𝑡𝑡𝑎𝑐𝑘 𝑀𝑖𝑡𝑖𝑔𝑎𝑡𝑖𝑜𝑛 over the 𝐵𝑙𝑜𝑐𝑘𝑐ℎ𝑎𝑖𝑛.  I am also interested in algorithms and problem solving.  For example, how can we use the latest technologies in psychology to help people facing mental health issues, and how can we detect them earlier?  Needless to say, I am interested in merging 𝑝𝑠𝑦𝑐ℎ𝑜𝑙𝑜𝑔𝑦 and 𝑐𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑠𝑐𝑖𝑒𝑛𝑐𝑒 for further development in the field.
 
-> **𝐵𝑙𝑜𝑐𝑘𝑐ℎ𝑎𝑖𝑛 𝑀𝐸𝑉 𝐺𝑜𝑣𝑒𝑟𝑛𝑎𝑛𝑐𝑒 𝐴𝑡𝑡𝑎𝑐𝑘 𝑀𝑖𝑡𝑖𝑔𝑎𝑡𝑖𝑜𝑛** &nbsp;·&nbsp; `2026`
-> Research paper analysing flash loan and flash coup exploits in decentralised networks.
-> Prototyped a hybrid mitigation architecture on Ethereum with novel documented strategies.
+From a development perspective, I have made many apps and websites for both mobile phones and desktops.  I have studied AI and ML, where we discussed how to train different models using multiple architectures.  I have made an emotion detection model that detects via images of users as well as a sign language detection model.
 
-> **𝐷𝑖𝑠𝑡𝑟𝑖𝑏𝑢𝑡𝑒𝑑 𝑉𝑜𝑡𝑖𝑛𝑔 𝑃𝑙𝑎𝑡𝑓𝑜𝑟𝑚** &nbsp;·&nbsp; `2025`
-> Secure voting system hardened against SQL injection and web vulnerabilities, built with Secure SDLC principles throughout.
-
-> **𝐺𝑙𝑜𝑏𝑎𝑙 𝑆𝑢𝑖𝑐𝑖𝑑𝑒 𝑅𝑎𝑡𝑒 𝑉𝑖𝑠𝑢𝑎𝑙𝑖𝑠𝑎𝑡𝑖𝑜𝑛** &nbsp;·&nbsp; `2024`
-> Multi-year large-scale dataset analysis identifying regional and gender-based trends via interactive Geo Chart.
-
-> **𝑀𝑜𝑏𝑖𝑙𝑒 𝐴𝑝𝑝𝑙𝑖𝑐𝑎𝑡𝑖𝑜𝑛 𝑆𝑢𝑖𝑡𝑒** &nbsp;·&nbsp; `2024`
-> Task Tracker and Weather App with secure third-party API communication and data handling.
+I am currently looking for internship and job opportunities, so if you are interested, kindly let me know. .✦ ݁˖
 
 <br/>
 
@@ -57,13 +45,13 @@
 
 **&thinsp; 𝑙𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 &thinsp;**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,sql,overleaf&theme=dark" />
 
 <br/><br/>
 
 **&thinsp; 𝐴𝐼 & 𝑀𝐿 &thinsp;**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,qiskit&theme=dark" />
 &nbsp;
 <img src="https://img.shields.io/badge/Hugging%20Face-1a1a2e?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
 <img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
