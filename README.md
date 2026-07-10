@@ -45,7 +45,7 @@ I am currently looking for internship and job opportunities, so if you are inter
 
 **&thinsp; 𝑙𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 &thinsp;**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,sql,ethereum,cairo&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,sql&theme=dark" />
 
 <br/><br/>
 
@@ -60,7 +60,7 @@ I am currently looking for internship and job opportunities, so if you are inter
 
 **&thinsp; 𝑡𝑜𝑜𝑙𝑠 &thinsp;**
 
-<img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,figma,notion,discord&theme=dark" />
 
 </div>
 
