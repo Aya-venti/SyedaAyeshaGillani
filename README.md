@@ -1,6 +1,6 @@
 # ⤷ ゛Hi it's Syeda Ayesha Gillani ⟢ˎˊ˗
 <div align="center">
-  <img width="1600" height="900" alt="top" src="https://github.com/user-attachments/assets/89f8e844-9ea2-4261-bee1-c590ac2a002d" />
+  <img width="1750" height="500" alt="top" src="https://github.com/user-attachments/assets/89f8e844-9ea2-4261-bee1-c590ac2a002d" />
 </div>
 
 <div align="center">
@@ -54,7 +54,7 @@ I am currently looking for internship and job opportunities, so if you are inter
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,qiskit&theme=dark" />
 &nbsp;
 <img src="https://img.shields.io/badge/Hugging%20Face-1a1a2e?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=flat-square&logo=scikitlearn&logo=qiskit&logoColor=F7931E"/>
 
 <br/><br/>
 
@@ -101,5 +101,5 @@ I am currently looking for internship and job opportunities, so if you are inter
 <br/>
 
 <div align="center">
-  <img width="1600" height="900" alt="btm&#39;" src="https://github.com/user-attachments/assets/508c9a8a-28c0-4ed5-b8f2-88a9083ca6c9" />
+  <img width="1750" height="500" alt="btm&#39;" src="https://github.com/user-attachments/assets/508c9a8a-28c0-4ed5-b8f2-88a9083ca6c9" />
 </div>
