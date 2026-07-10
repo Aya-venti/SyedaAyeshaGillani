@@ -1,6 +1,6 @@
 # ⤷ ゛Hi it's Syeda Ayesha Gillani ⟢ˎˊ˗
 <div align="center">
-<img width="1090" height="429" alt="top git" src="https://github.com/user-attachments/assets/d8fec441-de33-4ae4-8e19-8c026cb38f06" />
+  <img width="1600" height="900" alt="top" src="https://github.com/user-attachments/assets/89f8e844-9ea2-4261-bee1-c590ac2a002d" />
 </div>
 
 <div align="center">
@@ -101,5 +101,5 @@ I am currently looking for internship and job opportunities, so if you are inter
 <br/>
 
 <div align="center">
-<img width="485" height="174" alt="bottom git" src="https://github.com/user-attachments/assets/0e993287-20a2-4fc2-a8a9-6b3f0b4326ca" />
+  <img width="1600" height="900" alt="btm&#39;" src="https://github.com/user-attachments/assets/508c9a8a-28c0-4ed5-b8f2-88a9083ca6c9" />
 </div>
