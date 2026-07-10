@@ -19,7 +19,7 @@
 
 <br/>
 
-### ˚ · . 𝑎𝑏𝑜𝑢𝑡 𝑚𝑒 . · ˚
+### ˚ · . 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 . · ˚
 
 <br/>
 
@@ -37,7 +37,7 @@ I am currently looking for internship and job opportunities, so if you are inter
 
 <br/>
 
-### ˚ · . 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌 . · ˚
+### ˚ · . 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 . · ˚
 
 <br/>
 
@@ -60,7 +60,7 @@ I am currently looking for internship and job opportunities, so if you are inter
 
 **&thinsp; 𝑡𝑜𝑜𝑙𝑠 &thinsp;**
 
-<img src="https://skillicons.dev/icons?i=github,linux,vscode,figma,qiskit&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,linux,vscode,visual studio,figma,qiskit&theme=dark" />
 
 </div>
 
@@ -70,7 +70,7 @@ I am currently looking for internship and job opportunities, so if you are inter
 
 <br/>
 
-### ˚ · . 𝒓𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 . · ˚
+### ˚ · . 𝑹𝒆𝒂𝒄𝒉 𝑶𝒖𝒕 . · ˚
 
 <br/>
 
