@@ -1,6 +1,6 @@
 # ⤷ ゛Hi it's Syeda Ayesha Gillani ⟢ˎˊ˗
 <div align="center">
-  <img width="1600" height="500" alt="top" src="https://github.com/user-attachments/assets/89f8e844-9ea2-4261-bee1-c590ac2a002d" />
+  <img width="1600" height="600" alt="top" src="https://github.com/user-attachments/assets/89f8e844-9ea2-4261-bee1-c590ac2a002d" />
 </div>
 
 <div align="center">
@@ -45,7 +45,7 @@ I am currently looking for internship and job opportunities, so if you are inter
 
 **&thinsp; 𝑙𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 &thinsp;**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,sql,overleaf&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,sql&theme=dark" />
 
 <br/><br/>
 
@@ -101,5 +101,5 @@ I am currently looking for internship and job opportunities, so if you are inter
 <br/>
 
 <div align="center">
-  <img width="1600" height="500" alt="btm&#39;" src="https://github.com/user-attachments/assets/508c9a8a-28c0-4ed5-b8f2-88a9083ca6c9" />
+  <img width="1600" height="600" alt="btm&#39;" src="https://github.com/user-attachments/assets/508c9a8a-28c0-4ed5-b8f2-88a9083ca6c9" />
 </div>
