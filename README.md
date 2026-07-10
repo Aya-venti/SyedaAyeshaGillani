@@ -1,6 +1,6 @@
 # ⤷ ゛Hi it's Syeda Ayesha Gillani ⟢ˎˊ˗
 <div align="center">
-<img width="485" height="174" alt="top git" src="https://github.com/user-attachments/assets/d8fec441-de33-4ae4-8e19-8c026cb38f06" />
+<img width="1090" height="429" alt="top git" src="https://github.com/user-attachments/assets/d8fec441-de33-4ae4-8e19-8c026cb38f06" />
 </div>
 
 <div align="center">
