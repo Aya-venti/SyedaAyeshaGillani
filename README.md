@@ -1,6 +1,6 @@
 # ⤷ ゛Hi it's Syeda Ayesha Gillani ⟢ˎˊ˗
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/header.png" width="100%" style="border-radius:10px;"/>
+<img width="485" height="174" alt="top git" src="https://github.com/user-attachments/assets/d8fec441-de33-4ae4-8e19-8c026cb38f06" />
 </div>
 
 <div align="center">
@@ -101,5 +101,5 @@ I am currently looking for internship and job opportunities, so if you are inter
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img width="485" height="174" alt="bottom git" src="https://github.com/user-attachments/assets/0e993287-20a2-4fc2-a8a9-6b3f0b4326ca" />
 </div>
