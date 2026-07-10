@@ -1,4 +1,4 @@
-# ⤷ ゛Hi it's Syeda Ayesha Gillani ⟢ˎˊ˗
+# ⋆✴︎˚｡⋆ Hi it's Syeda Ayesha Gillani ⋆｡˚✴︎⋆
 <div align="center">
   <img width="1597" height="470" alt="top" src="https://github.com/user-attachments/assets/a1878f2f-5ace-444c-a30f-3c1f9d33b7af" />
 </div>
@@ -60,7 +60,7 @@ I am currently looking for internship and job opportunities, so if you are inter
 
 **&thinsp; 𝑡𝑜𝑜𝑙𝑠 &thinsp;**
 
-<img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio,figma,qiskit&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio,figma&theme=dark" />
 
 </div>
 
